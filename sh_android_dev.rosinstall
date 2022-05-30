@@ -1,0 +1,172 @@
+- git:
+    local-name: ament/ament_cmake
+    uri: https://github.com/ament/ament_cmake.git    
+    version: galactic
+- git:
+    local-name: ament/ament_index
+    uri: https://github.com/ament/ament_index.git    
+    version: galactic
+- git:
+    local-name: ament/ament_lint
+    uri: https://github.com/ament/ament_lint.git    
+    version: galactic
+- git:
+    local-name: ament/ament_package
+    uri: https://github.com/ament/ament_package.git    
+    version: galactic
+- git:
+    local-name: ament/google_benchmark_vendor
+    uri: https://github.com/ament/google_benchmark_vendor.git    
+    version: main
+- git:
+    local-name: ament/googletest
+    uri: https://github.com/ament/googletest.git    
+    version: galactic
+- git:
+    local-name: ament/uncrustify_vendor
+    uri: https://github.com/ament/uncrustify_vendor.git    
+    version: galactic
+- git:
+    local-name: eProsima/Fast-CDR
+    uri: https://github.com/eProsima/Fast-CDR.git    
+    version: v1.0.20
+- git:
+    local-name: eProsima/Fast-DDS
+    uri: https://github.com/eProsima/Fast-DDS.git    
+    version: v2.3.4
+- git:
+    local-name: eProsima/foonathan_memory_vendor
+    uri: https://github.com/eProsima/foonathan_memory_vendor.git    
+    version: master
+- git:
+    local-name: osrf/osrf_pycommon
+    uri: https://github.com/osrf/osrf_pycommon.git    
+    version: master
+- git:
+    local-name: osrf/osrf_testing_tools_cpp
+    uri: https://github.com/osrf/osrf_testing_tools_cpp.git    
+    version: master
+- git:
+    local-name: ros-tooling/libstatistics_collector
+    uri: https://github.com/ros-tooling/libstatistics_collector.git    
+    version: master
+- git:
+    local-name: ros-tracing/ros2_tracing
+    uri: https://gitlab.com/ros-tracing/ros2_tracing.git    
+    version: master
+- git:
+    local-name: ros2-java/ament_java
+    uri: https://github.com/ros2-java/ament_java.git    
+    version: main
+- git:
+    local-name: ros2-java/ros2_android
+    uri: https://github.com/ros2-java/ros2_android.git    
+    version: main
+- git:
+    local-name: ros2-java/ros2_android_examples
+    uri: https://github.com/ros2-java/ros2_android_examples.git    
+    version: main
+- git:
+    local-name: ros2-java/ros2_java
+    uri: https://github.com/ros2-java/ros2_java.git    
+    version: main
+- git:
+    local-name: ros2/ament_cmake_ros
+    uri: https://github.com/ros2/ament_cmake_ros.git    
+    version: galactic
+- git:
+    local-name: ros2/common_interfaces
+    uri: https://github.com/ros2/common_interfaces.git    
+    version: galactic
+- git:
+    local-name: ros2/example_interfaces
+    uri: https://github.com/ros2/example_interfaces.git    
+    version: galactic
+- git:
+    local-name: ros2/launch
+    uri: https://github.com/ros2/launch.git    
+    version: galactic
+- git:
+    local-name: ros2/libyaml_vendor
+    uri: https://github.com/ros2/libyaml_vendor.git    
+    version: galactic
+- git:
+    local-name: ros2/performance_test_fixture
+    uri: https://github.com/ros2/performance_test_fixture.git    
+    version: main
+- git:
+    local-name: ros2/python_cmake_module
+    uri: https://github.com/ros2/python_cmake_module.git    
+    version: galactic
+- git:
+    local-name: ros2/rcl
+    uri: https://github.com/ros2/rcl.git    
+    version: galactic
+- git:
+    local-name: ros2/rcl_interfaces
+    uri: https://github.com/ros2/rcl_interfaces.git    
+    version: galactic
+- git:
+    local-name: ros2/rcl_logging
+    uri: https://github.com/ros2/rcl_logging.git    
+    version: galactic
+- git:
+    local-name: ros2/rcpputils
+    uri: https://github.com/ros2/rcpputils.git    
+    version: galactic
+- git:
+    local-name: ros2/rcutils
+    uri: https://github.com/ros2/rcutils.git    
+    version: galactic
+- git:
+    local-name: ros2/rmw
+    uri: https://github.com/ros2/rmw.git    
+    version: galactic
+- git:
+    local-name: ros2/rmw_dds_common
+    uri: https://github.com/ros2/rmw_dds_common.git    
+    version: galactic
+- git:
+    local-name: ros2/rmw_fastrtps
+    uri: https://github.com/ros2/rmw_fastrtps.git    
+    version: galactic
+- git:
+    local-name: ros2/rmw_implementation
+    uri: https://github.com/ros2/rmw_implementation.git
+    version: galactic
+- git:
+    local-name: ros2/rosidl
+    uri: https://github.com/ros2/rosidl.git    
+    version: galactic
+- git:
+    local-name: ros2/rosidl_dds
+    uri: https://github.com/ros2/rosidl_dds.git    
+    version: galactic
+- git:
+    local-name: ros2/rosidl_defaults
+    uri: https://github.com/ros2/rosidl_defaults.git    
+    version: galactic
+- git:
+    local-name: ros2/rosidl_python
+    uri: https://github.com/ros2/rosidl_python.git    
+    version: galactic
+- git:
+    local-name: ros2/rosidl_typesupport
+    uri: https://github.com/ros2/rosidl_typesupport.git    
+    version: galactic
+- git:
+    local-name: ros2/rosidl_typesupport_fastrtps
+    uri: https://github.com/ros2/rosidl_typesupport_fastrtps.git    
+    version: galactic
+- git:
+    local-name: ros2/rpyutils
+    uri: https://github.com/ros2/rpyutils.git    
+    version: galactic
+- git:
+    local-name: ros2/test_interface_files
+    uri: https://github.com/ros2/test_interface_files.git    
+    version: galactic
+- git:
+    local-name: ros2/unique_identifier_msgs
+    uri: https://github.com/ros2/unique_identifier_msgs.git    
+    version: galactic
